@@ -1,0 +1,12 @@
+C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=RazorPagesMovie
+--content-root=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie
+--file=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie\Pages\About.cshtml
+--file=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie\Pages\Contact.cshtml
+--file=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie\Pages\Error.cshtml
+--file=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie\Pages\Index.cshtml
+--file=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie\Pages\_Layout.cshtml
+--file=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie\Pages\_ViewImports.cshtml
+--file=C:\Users\jmgil\source\repos\RazorPagesMovie\RazorPagesMovie\Pages\_ViewStart.cshtml
